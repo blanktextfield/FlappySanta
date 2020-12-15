@@ -1,0 +1,16 @@
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.Form1.resources
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.Properties.Resources.resources
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.csproj.GenerateResource.cache
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.AssemblyInfo.cs
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.exe
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.deps.json
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.runtimeconfig.json
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.dll
+C:\Users\mammu\source\repos\SantaComin\SantaComin\bin\Debug\netcoreapp3.1\SantaComin.pdb
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.dll
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.pdb
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.genruntimeconfig.cache
+C:\Users\mammu\source\repos\SantaComin\SantaComin\obj\Debug\netcoreapp3.1\SantaComin.csprojAssemblyReference.cache
